@@ -1,6 +1,8 @@
 # U-Type-001 Monitor
 
-This repository documents and monitors potential mimicry of the U-Type-001 structural command interface,
+> **Declared proprietary structure with trace-based enforcement for the U-Type-001 structural interface by minseo_kang**
+
+This repository documents and monitors potential mimicry of the U-Type-001 structural command interface,  
 authored by **minseo_kang**.
 
 ## Purpose
